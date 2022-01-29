@@ -5,11 +5,11 @@
 <h3 align="center"> Hello, World! 👋 I am Adi. </h3>
 <h3 align="center"> I am currently a 2nd year BSCS student. I take photos with my Canon 3000D sometimes. 🤷🏻‍♀️ </h3>
 
-<b>📲 Connect with me!<br></b>
-FaceBook: <br>
-Personal Instagram: <br>
-Photography Instagram: <br>
-LinkedIn: <br>
+<b>Connect with me! 📲<br></b>
+<a href="https://www.facebook.com/adi.ferrer.33/" target="_blank"><img src="https://raw.githubusercontent.com/adiferrer/adiferrer/main/images/facebook.png" alt="icon" height="30px"></a> (FaceBook profile) <br>
+<a href="https://www.instagram.com/r.adi.antt/" target="_blank"><img src="https://raw.githubusercontent.com/adiferrer/adiferrer/main/images/instagram.png" alt="icon" height="30px"></a> (Personal Instagram) <br>
+<a href="https://www.instagram.com/takenbyadi/?hl=en" target="_blank"><img src="https://raw.githubusercontent.com/adiferrer/adiferrer/main/images/instagram.png" alt="icon" height="30px"></a> (Photography Instagram) <br>
+<a href="https://www.linkedin.com/in/jeanne-ferrer-496a021aa/" target="_blank"><img src="https://raw.githubusercontent.com/adiferrer/adiferrer/main/images/linkedin.png" alt="icon" height="30px"></a> (LinkedIn profile)
 
 ### 🔭 I'm working on...
 - acquiring my BSCS degree 
