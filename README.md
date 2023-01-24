@@ -12,26 +12,21 @@
 
 ### 🔭 I'm working on...
 - acquiring my BSCS degree 
-- my old projects
 - the full-stack web development path on The Odin Project
+- my two volunteering jobs: AR Testing and web development
 
 ### 🌱 I’m currently learning..
-- front-end development
-- web technologies
+- front-end development (HTML, CSS and JavaScript)
 
 ### 🤔 I'm looking for... 
-- collaborative projects (Java, HTML, CSS)
+- collaborative projects (particularly web development)
+- volunteer/internship opportunities
 - help with Python and JavaScript
 
 ### 💭 Ask me about...
 - anything that's math related (pre-algebra, algebra, geometry, calculus)
 - proofreading or editing certain documents
-- hobbyist photography
-
-### ⚡ Fun facts about me: 
-- I'm fond of sushi, pokebowls and anime
-- I'm a huge MCU fan
-- I actually love studying and learning (oh, well)
+- photography
 
 ### 🚀 Technical Skills <br>
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
