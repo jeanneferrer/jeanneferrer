@@ -18,9 +18,9 @@
 - front-end development (HTML, CSS and JavaScript)
 
 ### 🤔 I'm looking for... 
-- collaborative projects (particularly web development)
+- collaborative projects (particularly web development, but other projects are welcome too!)
 - volunteer/internship opportunities
-- help with Python and JavaScript
+- help with thesis 
 
 ### 💭 Ask me about...
 - anything that's math related (pre-algebra, algebra, geometry, calculus)
