@@ -13,7 +13,6 @@
 ### 🔭 I'm working on...
 - acquiring my BSCS degree 
 - the full-stack web development path on The Odin Project
-- my volunteer work at the [Aquatic Biosphere Project](https://www.aquaticbiosphere.ca/)
 
 ### 🌱 I’m currently learning..
 - front-end development (HTML, CSS and JavaScript)
