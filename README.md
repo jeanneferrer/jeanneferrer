@@ -27,6 +27,9 @@
 - proofreading or editing certain documents
 - photography
 
+### Current Roadmap
+[![roadmap.sh](https://roadmap.sh/card/tall/664d577ad6b907c7f73f20c7?variant=dark&roadmaps=full-stack)](https://roadmap.sh)
+
 ### 🚀 Technical Skills <br>
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
@@ -44,5 +47,5 @@
 ![CodePen](https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black)
 
 ### 📈 GitHub Stats <br>
-![Adi's GitHub stats](https://github-readme-stats.vercel.app/api?username=adiferrer&theme=solarized-light&show_icons=true) <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adiferrer&layout=compact)](https://github.com/adiferrer)
+![Adi's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeanneferrer&theme=solarized-light&show_icons=true) <br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adiferrer&layout=compact)](https://github.com/jeanneferrer)
