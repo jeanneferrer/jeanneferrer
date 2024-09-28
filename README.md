@@ -48,4 +48,4 @@
 
 ### 📈 GitHub Stats <br>
 ![Adi's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeanneferrer&theme=solarized-light&show_icons=true) <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adiferrer&layout=compact)](https://github.com/jeanneferrer)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeanneferrer&layout=compact)](https://github.com/jeanneferrer)
