@@ -10,8 +10,7 @@
 <a href="https://www.instagram.com/takenbyadi/?hl=en" target="_blank"><img src="https://raw.githubusercontent.com/adiferrer/adiferrer/main/images/instagram.png" alt="icon" height="30px"></a> (Instagram) <br>
 <a href="https://www.linkedin.com/in/jeanne-ferrer-496a021aa/" target="_blank"><img src="https://raw.githubusercontent.com/adiferrer/adiferrer/main/images/linkedin.png" alt="icon" height="30px"></a> (LinkedIn profile)
 
-<br/>
-[![roadmap.sh](https://roadmap.sh/card/wide/664d577ad6b907c7f73f20c7?variant=dark&roadmaps=full-stack%2Cjavascript%2Cpython%2Cjava)](https://roadmap.sh)
+[![roadmap.sh](https://roadmap.sh/card/wide/664d577ad6b907c7f73f20c7?variant=light&roadmaps=full-stack%2Cjavascript%2Cpython%2Cjava)](https://roadmap.sh)
 
 ### 🔭 I'm working on...
 - acquiring my BSCS degree 
