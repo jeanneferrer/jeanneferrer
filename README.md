@@ -3,26 +3,21 @@
 </p>
 
 <h3 align="center"> Hello, World! 👋 I am Adi. </h3>
-<h3 align="center"> I am currently a BSCS student at the University of the Cordilleras. I take photos with my Canon 3000D sometimes. 🤷🏻‍♀️ </h3>
-
-<b>Connect with me! 📲<br></b>
-<a href="https://www.facebook.com/adi.ferrer.33/" target="_blank"><img src="https://raw.githubusercontent.com/adiferrer/adiferrer/main/images/facebook.png" alt="icon" height="30px"></a> (FaceBook profile) <br>
-<a href="https://www.instagram.com/takenbyadi/?hl=en" target="_blank"><img src="https://raw.githubusercontent.com/adiferrer/adiferrer/main/images/instagram.png" alt="icon" height="30px"></a> (Instagram) <br>
-<a href="https://www.linkedin.com/in/jeanne-ferrer-496a021aa/" target="_blank"><img src="https://raw.githubusercontent.com/adiferrer/adiferrer/main/images/linkedin.png" alt="icon" height="30px"></a> (LinkedIn profile)
+<h3 align="center"> I am currently a graduating BSCS student at the University of the Cordilleras. I take photos with my Canon 3000D sometimes. 🤷🏻‍♀️ </h3>
 
 [![roadmap.sh](https://roadmap.sh/card/wide/664d577ad6b907c7f73f20c7?variant=light&roadmaps=full-stack%2Cjavascript%2Cpython%2Cjava)](https://roadmap.sh)
 
 ### 🔭 I'm working on...
-- acquiring my BSCS degree 
+- acquiring my BSCS degree (graduating on October!)
 - the full-stack web development path on The Odin Project
 
 ### 🌱 I’m currently learning..
 - front-end development (HTML, CSS and JavaScript)
 
 ### 🤔 I'm looking for... 
+- a job 
 - collaborative projects (particularly web development, but other projects are welcome too!)
 - volunteer/internship opportunities
-- help with thesis 
 
 ### 💭 Ask me about...
 - anything that's math related (pre-algebra, algebra, geometry, calculus)
@@ -43,7 +38,6 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![CodePen](https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black)
 
 ### 📈 GitHub Stats <br>
 ![Adi's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeanneferrer&theme=solarized-light&show_icons=true) <br>
