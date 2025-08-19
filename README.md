@@ -9,10 +9,10 @@
 
 ### 🔭 I'm working on...
 - acquiring my BSCS degree (graduating on October!)
-- the full-stack web development path on The Odin Project
+- Cisco Networking Academy's JavaScript Essentials 1 course
 
 ### 🌱 I’m currently learning..
-- front-end development (HTML, CSS and JavaScript)
+- full-stack development 
 
 ### 🤔 I'm looking for... 
 - a job 
