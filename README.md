@@ -10,9 +10,11 @@
 ### 🔭 I'm working on...
 - acquiring my BSCS degree (graduating on October!)
 - Cisco Networking Academy's JavaScript Essentials 1 course
+- A booking website project with my friends using Hostinger 
 
 ### 🌱 I’m currently learning..
-- full-stack development 
+- full-stack development
+- visual builders like Hostinger
 
 ### 🤔 I'm looking for... 
 - a job 
