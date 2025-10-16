@@ -3,14 +3,13 @@
 </p>
 
 <h3 align="center"> Hello, World! 👋 I am Adi. </h3>
-<h3 align="center"> I am currently a graduating BSCS student at the University of the Cordilleras. I take photos with my Canon 3000D sometimes. 🤷🏻‍♀️ </h3>
+<h3 align="center"> Bachelor of Science in Computer Science. I take photos with my Canon 3000D sometimes. 🤷🏻‍♀️ </h3>
 
 [![roadmap.sh](https://roadmap.sh/card/wide/664d577ad6b907c7f73f20c7?variant=light&roadmaps=full-stack%2Cjavascript%2Cpython%2Cjava)](https://roadmap.sh)
 
 ### 🔭 I'm working on...
-- acquiring my BSCS degree (graduating on October!)
-- Cisco Networking Academy's JavaScript Essentials 1 course
-- A booking website project with my friends using Hostinger 
+- job hunting (ughhhh)
+- improving my portfolio
 
 ### 🌱 I’m currently learning..
 - full-stack development
