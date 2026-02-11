@@ -22,8 +22,11 @@
 - volunteer/freelance opportunities
 
 ### 💭 My hobbies are...
-- ice skating (barely lol)
 - amateur photography
+- Latin, open choreo and femme dance 
+- puzzle games
+- ice skating (barely lol)
+- watching anime duh
 
 ### 🚀 Technical Skills <br>
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
