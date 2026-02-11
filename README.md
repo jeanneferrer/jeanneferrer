@@ -3,27 +3,27 @@
 </p>
 
 <h3 align="center"> Hello, World! 👋 I am Adi. </h3>
-<h3 align="center"> Bachelor of Science in Computer Science. I take photos with my Canon 3000D sometimes. 🤷🏻‍♀️ </h3>
+<h3 align="center"> Your fave jack of all trades 🤷🏻‍♀️ </h3>
 
 [![roadmap.sh](https://roadmap.sh/card/wide/664d577ad6b907c7f73f20c7?variant=light&roadmaps=full-stack%2Cjavascript%2Cpython%2Cjava)](https://roadmap.sh)
 
 ### 🔭 I'm working on...
-- job hunting (ughhhh)
+- doing a good job as a full-time receptionist in [Karen King & Associates](https://karenking.ca/)
+- helping out casually as an assistant production manager in [Prime Sports & School Photography](https://www.primesportsteamphotography.com/)
 - improving my portfolio
+- upskilling for admin x data analyst roles
 
 ### 🌱 I’m currently learning..
-- full-stack development
-- visual builders like Hostinger
+- Google Apps Script - discovered it because I automated a small task for my boss!
+- Figma, for my freelance/volunteer projects
 
 ### 🤔 I'm looking for... 
-- a job 
-- collaborative projects (particularly web development, but other projects are welcome too!)
-- volunteer/internship opportunities
+- collaborative projects (just teach me pls)
+- volunteer/freelance opportunities
 
-### 💭 Ask me about...
-- anything that's math related (pre-algebra, algebra, geometry, calculus)
-- proofreading or editing certain documents
-- photography
+### 💭 My hobbies are...
+- ice skating (barely lol)
+- amateur photography
 
 ### 🚀 Technical Skills <br>
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
