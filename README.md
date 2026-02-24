@@ -1,4 +1,5 @@
 <p align="center">
+  ~i will insert an image here lol~
 <!-- <img src="https://user-images.githubusercontent.com/52438473/151645744-c96a73de-6ec6-40cb-be50-bc2e0b9baca7.png" alt="my banner"> -->
 </p>
 
@@ -15,6 +16,7 @@
 
 ### 🌱 I’m currently learning..
 - Google Apps Script - discovered it because I automated a small task for my boss!
+- SQL and Python (relearning for projects
 - Figma, for my freelance/volunteer projects
 
 ### 🤔 I'm looking for... 
@@ -23,10 +25,13 @@
 
 ### 💭 My hobbies are...
 - amateur photography
+- ice skating (barely)
 - Latin, open choreo and femme dance 
 - puzzle games
-- ice skating (barely lol)
-- watching anime duh
+- thrifting
+- discovering new cafes/restaurants/bakeries
+- watching anime
+- trying out new things!!!
 
 ### 🚀 Technical Skills <br>
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
@@ -44,5 +49,5 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ### 📈 GitHub Stats <br>
-![Adi's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeanneferrer&theme=solarized-light&show_icons=true) <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeanneferrer&layout=compact)](https://github.com/jeanneferrer)
+<!-- ![Adi's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeanneferrer&theme=solarized-light&show_icons=true) <br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeanneferrer&layout=compact)](https://github.com/jeanneferrer) -->
