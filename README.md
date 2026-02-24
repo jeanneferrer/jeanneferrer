@@ -16,8 +16,8 @@
 
 ### 🌱 I’m currently learning..
 - Google Apps Script - discovered it because I automated a small task for my boss!
-- SQL and Python (relearning for projects
-- Figma, for my freelance/volunteer projects
+- SQL and Python (relearning for projects)
+- Figma, for prototyping my freelance/volunteer projects
 
 ### 🤔 I'm looking for... 
 - collaborative projects (just teach me pls)
