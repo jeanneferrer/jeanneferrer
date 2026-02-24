@@ -8,7 +8,7 @@
 [![roadmap.sh](https://roadmap.sh/card/wide/664d577ad6b907c7f73f20c7?variant=light&roadmaps=full-stack%2Cjavascript%2Cpython%2Cjava)](https://roadmap.sh)
 
 ### 🔭 I'm working on...
-- doing a good job as a full-time receptionist in [Karen King & Associates](https://karenking.ca/)
+- doing a good job as a full-time front desk admin/receptionist in [Karen King & Associates](https://karenking.ca/)
 - helping out casually as an assistant production manager in [Prime Sports & School Photography](https://www.primesportsteamphotography.com/)
 - improving my portfolio
 - upskilling for admin x data analyst roles
